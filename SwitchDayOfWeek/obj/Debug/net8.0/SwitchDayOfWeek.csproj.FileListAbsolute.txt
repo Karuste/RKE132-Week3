@@ -1,0 +1,14 @@
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\bin\Debug\net8.0\SwitchDayOfWeek.exe
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\bin\Debug\net8.0\SwitchDayOfWeek.deps.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\bin\Debug\net8.0\SwitchDayOfWeek.runtimeconfig.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\bin\Debug\net8.0\SwitchDayOfWeek.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\bin\Debug\net8.0\SwitchDayOfWeek.pdb
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.AssemblyInfoInputs.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.AssemblyInfo.cs
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\refint\SwitchDayOfWeek.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.pdb
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\SwitchDayOfWeek.genruntimeconfig.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\SwitchDayOfWeek\obj\Debug\net8.0\ref\SwitchDayOfWeek.dll
