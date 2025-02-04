@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46F0C31B-A6F8-405A-BDDE-87A7CAC3872D}|HinneSWITCH\\HinneSWITCH.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\hinneswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F0C31B-A6F8-405A-BDDE-87A7CAC3872D}|HinneSWITCH\\HinneSWITCH.csproj|solutionrelative:hinneswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55089A53-8ECB-4669-A494-A4CDA19FAEDA}|OddOrEven\\OddOrEven.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55089A53-8ECB-4669-A494-A4CDA19FAEDA}|OddOrEven\\OddOrEven.csproj|solutionrelative:oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86C898A-1A10-454A-A4A1-F5FB071AA1D0}|ifDayOfTheWeek\\ifDayOfTheWeek.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C86C898A-1A10-454A-A4A1-F5FB071AA1D0}|ifDayOfTheWeek\\ifDayOfTheWeek.csproj|solutionrelative:ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F954144-D47C-445C-AADF-AD27EDFB30F2}|SwitchDayOfWeek\\SwitchDayOfWeek.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\switchdayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F954144-D47C-445C-AADF-AD27EDFB30F2}|SwitchDayOfWeek\\SwitchDayOfWeek.csproj|solutionrelative:switchdayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8E05D7-7F9D-4FD8-9051-C8DC1E58F25D}|hinne\\hinne.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\hinne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8E05D7-7F9D-4FD8-9051-C8DC1E58F25D}|hinne\\hinne.csproj|solutionrelative:hinne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86C898A-1A10-454A-A4A1-F5FB071AA1D0}|ifDayOfTheWeek\\ifDayOfTheWeek.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86C898A-1A10-454A-A4A1-F5FB071AA1D0}|ifDayOfTheWeek\\ifDayOfTheWeek.csproj|solutionrelative:ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FA33188-3881-4F41-957B-26242491E107}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|c:\\users\\arust\\source\\repos\\week3ifandswitch\\week3ifandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,20 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Program.cs",
               "RelativeDocumentMoniker": "Week3IfAndSwitch\\Program.cs",
               "ToolTip": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Program.cs",
               "RelativeToolTip": "Week3IfAndSwitch\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T09:36:33.61Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\ifDayOfTheWeek\\Program.cs",
+              "RelativeDocumentMoniker": "ifDayOfTheWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\ifDayOfTheWeek\\Program.cs",
+              "RelativeToolTip": "ifDayOfTheWeek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:54:04.745Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\HinneSWITCH\\Program.cs",
+              "RelativeDocumentMoniker": "HinneSWITCH\\Program.cs",
+              "ToolTip": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\HinneSWITCH\\Program.cs",
+              "RelativeToolTip": "HinneSWITCH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:35:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\hinne\\Program.cs",
+              "RelativeDocumentMoniker": "hinne\\Program.cs",
+              "ToolTip": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\hinne\\Program.cs",
+              "RelativeToolTip": "hinne\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:46:17.314Z",
               "EditorCaption": ""
             },
             {
@@ -59,24 +107,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\ifDayOfTheWeek\\Program.cs",
-              "RelativeDocumentMoniker": "ifDayOfTheWeek\\Program.cs",
-              "ToolTip": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\ifDayOfTheWeek\\Program.cs",
-              "RelativeToolTip": "ifDayOfTheWeek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T09:54:04.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\OddOrEven\\Program.cs",
               "RelativeDocumentMoniker": "OddOrEven\\Program.cs",
               "ToolTip": "C:\\Users\\arust\\source\\repos\\Week3IfAndSwitch\\OddOrEven\\Program.cs",
               "RelativeToolTip": "OddOrEven\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T09:42:43.772Z",
               "EditorCaption": ""

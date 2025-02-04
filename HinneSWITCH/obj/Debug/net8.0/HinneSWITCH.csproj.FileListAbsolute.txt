@@ -1,0 +1,15 @@
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.AssemblyInfoInputs.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.AssemblyInfo.cs
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.csproj.CoreCompileInputs.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.sourcelink.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\bin\Debug\net8.0\HinneSWITCH.exe
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\bin\Debug\net8.0\HinneSWITCH.deps.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\bin\Debug\net8.0\HinneSWITCH.runtimeconfig.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\bin\Debug\net8.0\HinneSWITCH.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\bin\Debug\net8.0\HinneSWITCH.pdb
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\refint\HinneSWITCH.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.pdb
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\HinneSWITCH.genruntimeconfig.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\HinneSWITCH\obj\Debug\net8.0\ref\HinneSWITCH.dll

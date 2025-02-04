@@ -1,0 +1,15 @@
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\bin\Debug\net8.0\HinneIfstatement.exe
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\bin\Debug\net8.0\HinneIfstatement.deps.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\bin\Debug\net8.0\HinneIfstatement.runtimeconfig.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\bin\Debug\net8.0\HinneIfstatement.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\bin\Debug\net8.0\HinneIfstatement.pdb
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.AssemblyInfoInputs.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.AssemblyInfo.cs
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.csproj.CoreCompileInputs.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.sourcelink.json
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\refint\HinneIfstatement.dll
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.pdb
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\HinneIfstatement.genruntimeconfig.cache
+C:\Users\arust\source\repos\Week3IfAndSwitch\hinne\obj\Debug\net8.0\ref\HinneIfstatement.dll
